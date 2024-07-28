@@ -1,0 +1,5 @@
+-  Hi, I’m Mertcan Kahvecioglu
+-  I’m interested in artifical intelligence and game development
+-  I’m currently focusing on game development with Unity.
+-  How to reach me -> mertcan.khvcoglu@gmail.com
+-  From Ankara, TÜRKIYE
