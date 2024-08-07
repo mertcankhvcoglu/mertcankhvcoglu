@@ -3,4 +3,4 @@
 -  I’m currently focusing on game development with Unity.
 -  How to reach me -> mertcan.khvcoglu@gmail.com
 -  From Ankara, TÜRKIYE
--  This Github was cleaned and reorganized in June 2024. That's why there are production dates next to project titles.
+-  This Github was cleaned and reorganized in June 2024. That's why there are production dates next to project descriptions.
