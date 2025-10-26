@@ -1,6 +1,7 @@
 -  Hi, I’m Mertcan Kahvecioglu
--  I’m interested in artifical intelligence and game development
--  I’m currently focusing on game development with Unity.
+-  I’m interested in artifical intelligence and game development.
+-  I’m currently full-stack developer.
+-  As part of my hobbies, I develop game prototypes with Unity.
 -  How to reach me -> mertcan.khvcoglu@gmail.com
 -  From Ankara, TÜRKIYE
 -  This Github was cleaned and recreated in June 2024. That's why there are production dates next to project descriptions.
