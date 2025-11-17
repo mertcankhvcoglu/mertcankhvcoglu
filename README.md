@@ -1,6 +1,6 @@
 -  Hi, I’m Mertcan Kahvecioglu
--  I’m interested in artifical intelligence and game development.
--  I’m currently full-stack developer.
+-  I’m interested in full-stack development, artifical intelligence and game development.
+-  I’m currently full-stack and software developer.
 -  As part of my hobbies, I develop game prototypes with Unity.
 -  How to reach me -> mertcan.khvcoglu@gmail.com
 -  From Ankara, TÜRKIYE
