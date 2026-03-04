@@ -4,4 +4,4 @@
 -  As part of my hobbies, I develop game prototypes with Unity.
 -  How to reach me -> mertcan.khvcoglu@gmail.com
 -  From Ankara, TÜRKIYE
--  This Github was cleaned and recreated in June 2024. That's why there are production dates next to project descriptions.
+**A quick note to recruiters:** My recent GitHub activity has been light as I've been dedicated to freelance projects and completing my English proficiency certifications. I am returning to open-source and personal project updates this March!
