@@ -26,7 +26,7 @@
 
 **Last 12 Months Activity:**
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true" alt="Mertcan's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mertcankhvcoglu&theme=tokyo-night&area=true" alt="Mertcan's Activity Graph" width="100%" />
 </p>
 
 **General Stats:**
