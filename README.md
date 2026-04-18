@@ -15,10 +15,10 @@
 
 ### 🚀 **Current Focus & Projects**
 
+- 🛠 **Embedded & Avionics:** Researching R&D solutions for avionics systems and embedded security protocols.
 - 📦 **LootDrop:** A Cyberpunk-themed e-commerce platform built with React, Go, and PostgreSQL.
 - ✈️ **Avionics & Cyber Security:** Researching R&D solutions for avionics systems and defense industry security.
 - 👁️ **Vision Systems:** Developing deep learning models for real-time safety equipment detection (e.g., Helmet/PPE detection).
-- 👨‍✈️ **Aviation:** Actively preparing for the commercial pilot transition and cadet programs.
 
 ---
 
