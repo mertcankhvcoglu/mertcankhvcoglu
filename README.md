@@ -1,6 +1,6 @@
 # Hi there, I'm Mertcan Kahvecioğlu! 
 
-### **Computer Engineer | Full-Stack & Embedded Systems Developer  **
+### **Computer Engineer | Full-Stack & Embedded Systems Developer**
 -  From Ankara, TÜRKIYE
 
 ### 🛠 **Technical Arsenal**
