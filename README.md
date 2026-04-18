@@ -1,7 +1,33 @@
--  Hi, I’m Mertcan Kahvecioglu
--  I’m interested in full-stack development, artifical intelligence and game development.
--  I’m currently full-stack and software developer.
--  As part of my hobbies, I develop game prototypes with Unity.
--  How to reach me -> mertcan.khvcoglu@gmail.com
+# Hi there, I'm Mertcan Kahvecioğlu! 
+
+### **Computer Engineer | Full-Stack & Embedded Systems Developer  **
 -  From Ankara, TÜRKIYE
+
+### 🛠 **Technical Arsenal**
+
+- **Backend:** `Java (Spring Boot)`, `Go`, `C#`, `PostgreSQL`
+- **Frontend:** `React`, `JavaScript`, `UI/UX Design (Cyberpunk & Minimalist)`
+- **Embedded Systems:** `C++`
+- **AI & Computer Vision:** `Python`, `YOLOv8` (Specialized in real-time object detection)
+- **Game Dev:** `Unity` & `C#`
+
+---
+
+### 🚀 **Current Focus & Projects**
+
+- 📦 **LootDrop:** A Cyberpunk-themed e-commerce platform built with React, Go, and PostgreSQL.
+- ✈️ **Avionics & Cyber Security:** Researching R&D solutions for avionics systems and defense industry security.
+- 👁️ **Vision Systems:** Developing deep learning models for real-time safety equipment detection (e.g., Helmet/PPE detection).
+- 👨‍✈️ **Aviation:** Actively preparing for the commercial pilot transition and cadet programs.
+
+---
+
+### 📫 **How to Reach Me*
+
+- **LinkedIn:** [linkedin.com/in/mertcankahvecioglu](https://linkedin.com/in/mertcankahvecioglu)
+- **E-mail:** [mertcan.khvcoglu@gmail.com](mertcan.khvcoglu@gmail.com)
+
+---
+
 - **A quick note to recruiters:** My recent GitHub activity has been light as I've been dedicated to freelance projects and completing my English proficiency certifications. I am returning to open-source and personal project updates this March!
+
