@@ -22,7 +22,16 @@
 
 ---
 
-### 📫 **How to Reach Me*
+### 📊 **GitHub Stats**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Mertcan's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+### 📫 **Let's Connect**
 
 - **LinkedIn:** [linkedin.com/in/mertcankahvecioglu](https://linkedin.com/in/mertcankahvecioglu)
 - **E-mail:** [mertcan.khvcoglu@gmail.com](mertcan.khvcoglu@gmail.com)
