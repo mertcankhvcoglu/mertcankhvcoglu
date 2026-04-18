@@ -26,7 +26,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mertcankhvcoglu&show_icons=true&theme=tokyonight" alt="Mertcan's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcankhvoglu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertcankhvcoglu&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
