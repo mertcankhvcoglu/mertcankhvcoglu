@@ -5,9 +5,9 @@
 
 ### 🛠 **Technical Arsenal**
 
+- **Embedded Systems:** `C++`
 - **Backend:** `Java (Spring Boot)`, `Go`, `C#`, `PostgreSQL`
 - **Frontend:** `React`, `JavaScript`, `UI/UX Design (Cyberpunk & Minimalist)`
-- **Embedded Systems:** `C++`
 - **AI & Computer Vision:** `Python`, `YOLOv8` (Specialized in real-time object detection)
 - **Game Dev:** `Unity` & `C#`
 
